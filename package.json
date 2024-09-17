@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-label",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A markdown-it plugin, which adds labels/tags",
   "type": "module",
   "exports": {
@@ -48,9 +48,6 @@
     "LICENSE",
     "README.md"
   ],
-  "dependencies": {
-    "css-color-names": "^1.0.1"
-  },
   "devDependencies": {
     "@types/markdown-it": "latest",
     "markdown-it": "latest",
