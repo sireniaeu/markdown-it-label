@@ -27,14 +27,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bioruebe/markdown-it-label"
+    "url": "https://github.com/sireniaeu/markdown-it-label"
   },
-  "author": "bioruebe",
+  "author": "sireniaeu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bioruebe/markdown-it-label/issues"
+    "url": "https://github.com/sireniaeu/markdown-it-label/issues"
   },
-  "homepage": "https://github.com/bioruebe/markdown-it-label",
+  "homepage": "https://github.com/sireniaeu/markdown-it-label",
   "keywords": [
     "markdown",
     "markdown-it",
